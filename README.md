@@ -1,0 +1,15 @@
+Ubuntu with tools:
+- mc
+- curl
+- apt-transport-https
+- git
+- wget
+- apt-utils
+- gnupg2
+- zip
+- unzip
+- ca-certificates
+- nmap
+- iproute2
+- tree
+- htop
